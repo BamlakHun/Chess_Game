@@ -1,1 +1,1 @@
-# The Chess game code (bot)
+# The chess game code (bot)
