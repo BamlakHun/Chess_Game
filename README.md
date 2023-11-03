@@ -1,2 +1,1 @@
-# Chess
-Chess visualization AI using Eye Tracker
+# Chess game code (bot)
